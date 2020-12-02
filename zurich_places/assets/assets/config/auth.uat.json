@@ -1,0 +1,17 @@
+{
+  "client_id": "28f9f7ab-f8e0-4a9a-9886-09ea53307619",
+  "authorization_user_agent": "DEFAULT",
+  "redirect_uri": "msauth://uk.co.spicatech.luna.apps.zurichplaces.uat/%2FDfFJCJ2WxKA8Thq0H93rUjZ%2BgI%3D",
+  "account_mode": "SINGLE",
+  "broker_redirect_uri_registered": true,
+  "authorities": [
+    {
+      "type": "AAD",
+      "authority_url": "https://login.microsoftonline.com/796d3623-8754-4ccd-b12a-2d6f122d032e",
+      "audience": {
+        "type": "AzureADMyOrg",
+        "tenant_id": "796d3623-8754-4ccd-b12a-2d6f122d032e"
+      }
+    }
+  ]
+}
